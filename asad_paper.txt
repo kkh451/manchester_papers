@@ -1,0 +1,23 @@
+#Title
+
+Aircraft measurements and simulation of biomass burning aerosols over West Africa
+
+
+#Author
+Asad Ashfaq
+Jon Smith 
+
+# Introduction
+We present aircraft measurements of BBOA over West Africa.
+
+Sustainable energy is vital for future decarbonisation of our energy networks and carbon emissions reduction 
+
+# Simulations
+we simulate the evolution of particle sizes as they are carried away from the source region.
+
+#Methodology
+We compared our results with that those in reference.
+
+
+#Figures
+Attached you may find figures.

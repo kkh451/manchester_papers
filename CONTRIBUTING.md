@@ -1,6 +1,10 @@
 # Contributing guidelines
 
 ## In general
+Very important is that the contributer who contributed last to the paper will be the first author of the 
+article. 
+
+
 - Some repositories will have contributing guidelines here: others won't.
 - Read the guidelines and follow them. This will give your PR a better chance of being accepted.
 - Some repositories want you to open an issue first, in order to discuss your proposed change.
